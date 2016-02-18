@@ -1,4 +1,5 @@
 -- MEAN.JS tutorial --
+
 Taken form thinkster.io
 The goal of this tutorial is to create a Reddit/Hacker News clone using the MEAN stack. It gives a basic understanding of the MEAN stack 
 including building a REST interface with Express.js on top of Node.js and using that interface to perform CRUD operations on a MongoDB 
@@ -18,6 +19,6 @@ MEAN stack: MEAN is an acronym made up of commonly used technologies for an all 
 - NodeJS (application server)
 
 
-Other libraries:
+Other libraries used:
 - Mongoose: for adding structure to MongoDB.
 - Angular ui-router: for client side routing.
