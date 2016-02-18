@@ -1,4 +1,4 @@
--- MEAN.JS tutorial --
+-- MEAN STACK tutorial --
 
 Taken form thinkster.io
 The goal of this tutorial is to create a Reddit/Hacker News clone using the MEAN stack. It gives a basic understanding of the MEAN stack 
