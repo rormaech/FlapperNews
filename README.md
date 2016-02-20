@@ -22,3 +22,4 @@ MEAN stack: MEAN is an acronym made up of commonly used technologies for an all 
 Other libraries used:
 - Mongoose: for adding structure to MongoDB.
 - Angular ui-router: for client side routing.
+- Passport: authentication middleware for NodeJS
