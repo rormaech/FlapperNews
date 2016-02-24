@@ -24,4 +24,4 @@ Other libraries used:
 - Angular ui-router: for client side routing.
 - Passport: authentication middleware for NodeJS
 
-<small>Start app: type `npm start` in the app directory and `mongod &` to start the database at its directory</small>
+<blockquote>Start the app: type `npm start` in the app directory and `mongod &` to start the database at its directory</blockquote>
